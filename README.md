@@ -9,10 +9,13 @@ The goal is the recreate the game of checkers in Javascript
 - CORS
 - OOP Style
 - Frontend Framework
+- Session storage that will store everything in the browser session. Like the status of the game, etc.
 
 ## Backend:
 
 ### Routers:
+- Authentication router for login and register (stretch)
+- 
 
 ### Classes:
 
