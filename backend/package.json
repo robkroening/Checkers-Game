@@ -1,14 +1,15 @@
 {
-  "name": "checkers-game",
+  "name": "backend",
   "version": "1.0.0",
-  "description": "The goal is the recreate the game of checkers in Javascript",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "node --watch app.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
     "bcrypt": "^5.1.1",
     "cors": "^2.8.5",
