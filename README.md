@@ -9,3 +9,19 @@ The goal is the recreate the game of checkers in Javascript
 - CORS
 - OOP Style
 - Frontend Framework
+
+## Backend:
+
+### Routers:
+
+### Classes:
+
+### Schemas:
+
+### App:
+
+## Frontend:
+
+### Frontend landing page:
+- index.html file to show the checkers game landing page
+
