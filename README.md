@@ -5,6 +5,7 @@ The goal is the recreate the game of checkers in Javascript
 - Express
 - Mongoose
 - Bcrypt for Auth (stretch)
+- JSON web token for Auth (stretch)
 - CORS
 - OOP Style
-- 
+- Frontend Framework
