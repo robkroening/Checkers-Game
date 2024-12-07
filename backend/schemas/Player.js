@@ -8,9 +8,10 @@ const playerSchema = new mongoose.Schema(
             required: true
         },
 
-        record: {
-            type: String,
-            required: false,
+        pieces: {
+            type: Array,
+            required: true,
+            default: []
         }
     }
 );
